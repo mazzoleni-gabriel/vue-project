@@ -5,7 +5,10 @@
         </div>
         <div class="gui-card__details">
             <div class="gui-card__title">
-                {{movieName}}
+                {{name}}
+            </div>
+            <div class="gui-card__description">
+                <h6>{{description}}</h6>
             </div>
         </div>
     </div>
@@ -13,7 +16,7 @@
 
 <script>
 export default {
-    props:['movieName', 'image']
+    props:['name', 'image', 'description']
 }
 </script>
 

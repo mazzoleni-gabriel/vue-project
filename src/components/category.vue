@@ -7,14 +7,15 @@
 
         <div ref="scroller" class="row">
             <div class="row__inner">
-                <movie movieName="Pantera negra" image="https://boygeniusreport.files.wordpress.com/2018/04/black-panther.jpg?quality=98&strip=all&w=1200"></movie>
-                <movie movieName="Pantera negra" image="https://boygeniusreport.files.wordpress.com/2018/04/black-panther.jpg?quality=98&strip=all&w=1200"></movie>
-                <movie movieName="Pantera negra" image="https://boygeniusreport.files.wordpress.com/2018/04/black-panther.jpg?quality=98&strip=all&w=1200"></movie>
-                <movie movieName="Pantera negra" image="https://boygeniusreport.files.wordpress.com/2018/04/black-panther.jpg?quality=98&strip=all&w=1200"></movie>
-                <movie movieName="Pantera negra" image="https://boygeniusreport.files.wordpress.com/2018/04/black-panther.jpg?quality=98&strip=all&w=1200"></movie>
-                <movie movieName="Pantera negra" image="https://boygeniusreport.files.wordpress.com/2018/04/black-panther.jpg?quality=98&strip=all&w=1200"></movie>
-                <movie movieName="Pantera negra" image="https://boygeniusreport.files.wordpress.com/2018/04/black-panther.jpg?quality=98&strip=all&w=1200"></movie>
-                <movie movieName="Pantera negra" image="https://boygeniusreport.files.wordpress.com/2018/04/black-panther.jpg?quality=98&strip=all&w=1200"></movie>
+                <movie name="Pantera negra" description="asdasdasdasd"  image="https://boygeniusreport.files.wordpress.com/2018/04/black-panther.jpg?quality=98&strip=all&w=1200"></movie>
+                <movie name="Pantera negra" description="asdasdasdasd"  image="https://boygeniusreport.files.wordpress.com/2018/04/black-panther.jpg?quality=98&strip=all&w=1200"></movie>
+                <movie name="Pantera negra" image="https://boygeniusreport.files.wordpress.com/2018/04/black-panther.jpg?quality=98&strip=all&w=1200"></movie>
+                <movie name="Pantera negra" image="https://boygeniusreport.files.wordpress.com/2018/04/black-panther.jpg?quality=98&strip=all&w=1200"></movie>
+                <movie name="Pantera negra" image="https://boygeniusreport.files.wordpress.com/2018/04/black-panther.jpg?quality=98&strip=all&w=1200"></movie>
+                <movie name="Pantera negra" image="https://boygeniusreport.files.wordpress.com/2018/04/black-panther.jpg?quality=98&strip=all&w=1200"></movie>
+                <movie name="Pantera negra" image="https://boygeniusreport.files.wordpress.com/2018/04/black-panther.jpg?quality=98&strip=all&w=1200"></movie>
+                <movie name="Pantera negra" image="https://boygeniusreport.files.wordpress.com/2018/04/black-panther.jpg?quality=98&strip=all&w=1200"></movie>
+                <movie name="Pantera negra" image="https://boygeniusreport.files.wordpress.com/2018/04/black-panther.jpg?quality=98&strip=all&w=1200"></movie>
             </div>
         </div>
 
