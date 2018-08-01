@@ -1,9 +1,6 @@
 <template>
   <div class="contain">
     <category category-name="Comédia"></category>
-    <category category-name="Suspense"></category>
-    <category category-name="Ação"></category>
-    <category category-name="Mucho loco"></category>
   </div>
 </template>
 
@@ -227,6 +224,11 @@ a:hover {
   opacity: 1;
 }
 .gui-card__title {
+  position: absolute;
+  bottom: 0;
+  padding: 10px;
+}
+.gui-card__description {
   position: absolute;
   bottom: 0;
   padding: 10px;
